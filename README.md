@@ -1,11 +1,8 @@
-# Halo semua! 
+# Halo semua!
+Perkenalkan nama saya **Sajid Fardan Nuazhar**
 
-Perkenalkan nama saya **Sajid Fardan Nuazhar**.\
+Saya seorang Mahasiswa Teknik Informatika di UIN Syarif Hidayatullah Jakarta, sekaligus lulusan Bangkit Academy dalam bidang Cloud Computing.
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya memiliki pengalaman dalam mengembangkan aplikasi berbasis machine learning, salah satunya adalah proyek "Deteksi Kain Tapis", yang dirancang untuk mendeteksi motif kain tradisional dari Lampung menggunakan kamera ponsel. Saya juga sedang mendalami pengembangan Full Stack Web dengan teknologi modern seperti Laravel dan Next.js.
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Saya memiliki keterampilan di bidang desain grafis, editing video, dan terjemahan, serta terus memperluas keahlian saya di dunia teknologi.
