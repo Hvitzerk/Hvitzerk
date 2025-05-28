@@ -1,8 +1,44 @@
-# Halo semua!
-Perkenalkan nama saya **Sajid Fardan Nuazhar**
+# Halo semua! 👋
 
-Saya seorang Mahasiswa Teknik Informatika di UIN Syarif Hidayatullah Jakarta, sekaligus lulusan Bangkit Academy dalam bidang Cloud Computing.
+Perkenalkan nama saya **Sajid Fardan Nuazhar**.
 
-Saya memiliki pengalaman dalam mengembangkan aplikasi berbasis machine learning, salah satunya adalah proyek "Deteksi Kain Tapis", yang dirancang untuk mendeteksi motif kain tradisional dari Lampung menggunakan kamera ponsel. Saya juga sedang mendalami pengembangan Full Stack Web dengan teknologi modern seperti Laravel dan Next.js.
+Saya adalah Mahasiswa Teknik Informatika di **UIN Syarif Hidayatullah Jakarta**, dan lulusan program **Bangkit Academy** oleh Google, Gojek, Tokopedia, dan Traveloka dalam learning path **Cloud Computing**.
 
-Saya memiliki keterampilan di bidang desain grafis, editing video, dan terjemahan, serta terus memperluas keahlian saya di dunia teknologi.
+---
+
+### 💻 Proyek dan Pengalaman
+
+Saya aktif mengembangkan berbagai proyek aplikasi, baik dalam bidang **web development** maupun **machine learning**. Beberapa highlight pengalaman saya:
+
+- 🚀 **Deteksi Kain Tapis** — Proyek berbasis machine learning untuk mendeteksi motif kain tradisional Lampung menggunakan kamera ponsel.
+- 🌐 **ArionMall** — Project internship untuk modernisasi sistem manajemen dan desain website mall berbasis TypeScript.
+- 📋 Aplikasi CRUD seperti **Daftar-Biodata-Siswa** dan **VolunterPembuatanAplikasi** dari program Dicoding.
+- 🔒 **Aplikasi_Login** — Implementasi autentikasi sederhana dari kelas Belajar Dasar Git.
+- 📒 **notes-app-back-end** — RESTful API untuk manajemen catatan, ditulis dalam JavaScript.
+- 🌈 **Woah** — Eksplorasi pribadi dengan teknologi PHP.
+
+---
+
+### 🔧 Teknologi yang Saya Gunakan
+
+- **Back-End:** Laravel, Node.js
+- **Front-End:** HTML, CSS, JavaScript, Next.js
+- **Cloud Platform:** Google Cloud Platform (GCP)
+- **Database:** MySQL, Firestore
+- **Tools:** Git, GitHub, Postman
+- **Lainnya:** Desain Grafis (Canva, Photoshop), Video Editing, Penerjemahan
+
+---
+
+### 🏆 Pencapaian
+
+- 🎓 Lulus dari **Bangkit Academy (Cloud Computing)**
+- 🏢 Internship di **Arion Mall** sebagai pengembang sistem dan desain
+
+---
+
+### 📫 Hubungi Saya
+
+- GitHub: [https://github.com/Hvitzerk](https://github.com/Hvitzerk)
+- LinkedIn: (www.linkedin.com/in/sajidfardannuazhar)
+- Email: (sfardan321@gmail.com)
