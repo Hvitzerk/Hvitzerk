@@ -1,8 +1,8 @@
-# Halo semua! 👋
+# Halo! 👋
 
 Perkenalkan nama saya **Sajid Fardan Nuazhar**.
 
-Saya adalah Mahasiswa Teknik Informatika di **UIN Syarif Hidayatullah Jakarta**, dan lulusan program **Bangkit Academy** oleh Google, Gojek, Tokopedia, dan Traveloka dalam learning path **Cloud Computing**.
+Saya adalah Mahasiswa Teknik Informatika di **UIN Syarif Hidayatullah Jakarta**.
 
 ---
 
