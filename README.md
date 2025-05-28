@@ -15,7 +15,7 @@ Saya aktif mengembangkan berbagai proyek aplikasi, baik dalam bidang **web devel
 - 📋 Aplikasi CRUD seperti **Daftar-Biodata-Siswa** dan **VolunterPembuatanAplikasi** dari program Dicoding.
 - 🔒 **Aplikasi_Login** — Implementasi autentikasi sederhana dari kelas Belajar Dasar Git.
 - 📒 **notes-app-back-end** — RESTful API untuk manajemen catatan, ditulis dalam JavaScript.
-- 🌈 **Woah** — Eksplorasi pribadi dengan teknologi PHP.
+- 🌐 **Woah** — Eksplorasi pribadi dengan teknologi PHP.
 
 ---
 
